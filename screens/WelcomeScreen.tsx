@@ -13,7 +13,7 @@ import {auth} from '../config/firebase';
 
 GoogleSignin.configure({
   webClientId:
-    '451571285915-jpb07dabhv6e1vpbthns57onm2o3hgep.apps.googleusercontent.com',
+    '774189415973-o541hr474d44ddsrjkn7lc3fbgssabk4.apps.googleusercontent.com',
 });
 
 const WelcomeScreen = () => {
